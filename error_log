@@ -1,0 +1,110 @@
+[14-Nov-2018 17:49:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 70
+[14-Nov-2018 17:52:27 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 31
+[14-Nov-2018 18:01:29 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 34
+[14-Nov-2018 19:05:57 UTC] PHP Notice:  Undefined index: fname in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 49
+[14-Nov-2018 19:05:57 UTC] PHP Notice:  Undefined index: lname in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 50
+[14-Nov-2018 19:05:57 UTC] PHP Notice:  Undefined index: email in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 51
+[14-Nov-2018 19:05:57 UTC] PHP Notice:  Undefined index: phone in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 52
+[14-Nov-2018 19:05:57 UTC] PHP Notice:  Undefined index: zipcode in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 53
+[14-Nov-2018 19:05:57 UTC] PHP Notice:  Undefined variable: eventvalidation in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 67
+[14-Nov-2018 19:44:18 UTC] PHP Warning:  Illegal string offset 'viewstate' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 47
+[14-Nov-2018 19:44:18 UTC] PHP Warning:  Illegal string offset 'viewstateguid' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 48
+[14-Nov-2018 19:44:18 UTC] PHP Warning:  Illegal string offset 'validationModeFld' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 49
+[14-Nov-2018 19:44:18 UTC] PHP Notice:  Undefined index: phone_type in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 54
+[14-Nov-2018 19:44:18 UTC] PHP Notice:  Undefined variable: eventvalidation in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 69
+[14-Nov-2018 19:44:50 UTC] PHP Warning:  Illegal string offset 'viewstate' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 47
+[14-Nov-2018 19:44:50 UTC] PHP Warning:  Illegal string offset 'viewstateguid' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 48
+[14-Nov-2018 19:44:50 UTC] PHP Warning:  Illegal string offset 'validationModeFld' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 49
+[14-Nov-2018 19:44:50 UTC] PHP Notice:  Undefined index: phone_type in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 54
+[14-Nov-2018 19:44:50 UTC] PHP Notice:  Undefined variable: eventvalidation in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 69
+[14-Nov-2018 19:50:13 UTC] PHP Warning:  Illegal string offset 'viewstate' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 47
+[14-Nov-2018 19:50:13 UTC] PHP Warning:  Illegal string offset 'viewstateguid' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 48
+[14-Nov-2018 19:50:13 UTC] PHP Warning:  Illegal string offset 'validationModeFld' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 49
+[14-Nov-2018 19:50:13 UTC] PHP Notice:  Undefined index: phone_type in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 54
+[14-Nov-2018 19:50:13 UTC] PHP Notice:  Undefined variable: eventvalidation in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 69
+[14-Nov-2018 19:55:46 UTC] PHP Warning:  Illegal string offset 'viewstate' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 47
+[14-Nov-2018 19:55:46 UTC] PHP Warning:  Illegal string offset 'viewstateguid' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 48
+[14-Nov-2018 19:55:46 UTC] PHP Warning:  Illegal string offset 'validationModeFld' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 49
+[14-Nov-2018 19:55:46 UTC] PHP Notice:  Undefined index: phone_type in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 54
+[14-Nov-2018 19:55:46 UTC] PHP Notice:  Undefined variable: eventvalidation in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 69
+[14-Nov-2018 20:16:29 UTC] PHP Warning:  Illegal string offset 'viewstate' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 47
+[14-Nov-2018 20:16:29 UTC] PHP Warning:  Illegal string offset 'viewstateguid' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 48
+[14-Nov-2018 20:16:29 UTC] PHP Warning:  Illegal string offset 'validationModeFld' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 49
+[14-Nov-2018 20:16:29 UTC] PHP Notice:  Undefined variable: eventvalidation in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 69
+[14-Nov-2018 20:23:09 UTC] PHP Warning:  Illegal string offset 'viewstate' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 47
+[14-Nov-2018 20:23:09 UTC] PHP Warning:  Illegal string offset 'viewstateguid' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 48
+[14-Nov-2018 20:23:09 UTC] PHP Warning:  Illegal string offset 'validationModeFld' in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 49
+[14-Nov-2018 20:23:09 UTC] PHP Notice:  Undefined variable: eventvalidation in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 69
+[14-Nov-2018 22:05:02 UTC] PHP Notice:  Undefined variable: eventvalidation in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 68
+[14-Nov-2018 22:27:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function frite() in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php:57
+Stack trace:
+#0 /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php(95): step1_to_2('https://5c71376...')
+#1 {main}
+  thrown in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 57
+[15-Nov-2018 13:27:20 UTC] PHP Parse error:  syntax error, unexpected '$fh' (T_VARIABLE) in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 70
+[15-Nov-2018 13:29:41 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 37
+[15-Nov-2018 13:29:41 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 40
+[15-Nov-2018 13:39:41 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 28
+[15-Nov-2018 13:39:41 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 31
+[15-Nov-2018 13:39:41 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 34
+[15-Nov-2018 13:39:41 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 37
+[15-Nov-2018 13:39:41 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 40
+[15-Nov-2018 13:56:41 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 28
+[15-Nov-2018 13:56:41 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 31
+[15-Nov-2018 13:56:41 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 34
+[15-Nov-2018 13:56:41 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 37
+[15-Nov-2018 13:56:41 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 40
+[15-Nov-2018 14:10:40 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 28
+[15-Nov-2018 14:10:40 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 31
+[15-Nov-2018 14:10:40 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 34
+[15-Nov-2018 14:10:40 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 37
+[15-Nov-2018 14:10:40 UTC] PHP Notice:  Undefined offset: 0 in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 40
+[15-Nov-2018 16:01:10 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 46
+[15-Nov-2018 16:02:59 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 46
+[15-Nov-2018 16:09:39 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 45
+[15-Nov-2018 16:27:09 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 45
+[15-Nov-2018 16:29:14 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 45
+[15-Nov-2018 16:33:21 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 45
+[15-Nov-2018 16:38:32 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 45
+[15-Nov-2018 16:47:57 UTC] PHP Notice:  Undefined index: zip in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 13
+[15-Nov-2018 16:47:58 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 45
+[15-Nov-2018 16:52:52 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 45
+[15-Nov-2018 18:08:50 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 45
+[15-Nov-2018 18:15:37 UTC] PHP Parse error:  syntax error, unexpected '$postFlds' (T_VARIABLE) in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 13
+[15-Nov-2018 18:17:56 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 45
+[15-Nov-2018 21:00:12 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 45
+[15-Nov-2018 21:12:46 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 45
+[16-Nov-2018 12:20:37 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 12:23:47 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 12:26:13 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 12:28:36 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 12:33:05 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 12:40:50 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 12:48:39 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 12:53:31 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 13:34:05 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 14:36:42 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 14:37:04 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 14:37:18 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 14:51:16 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 17:59:43 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 18:39:31 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 18:39:31 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 18:39:31 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 18:41:41 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 19:34:53 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 19:45:06 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 19:46:06 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 19:47:57 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 21:10:13 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 23:53:58 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[16-Nov-2018 23:56:53 UTC] PHP Notice:  Undefined variable: ret_val in /home/ge76sb9s7apc/public_html/clients/insurance/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 41
+[04-Dec-2018 04:31:19 UTC] PHP Notice:  Undefined index: phone_type in /home/ppfqae5402sm/public_html/clients/dev/b1/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 12
+[05-Dec-2018 08:35:03 UTC] PHP Notice:  Undefined index: phone_type in /home/ppfqae5402sm/public_html/clients/dev/b1/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 12
+[05-Dec-2018 09:45:01 UTC] PHP Notice:  Undefined index: phone_type in /home/ppfqae5402sm/public_html/clients/dev/b1/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 12
+[05-Dec-2018 09:51:08 UTC] PHP Notice:  Undefined index: phone_type in /home/ppfqae5402sm/public_html/clients/dev/b1/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 12
+[05-Dec-2018 12:04:27 UTC] PHP Notice:  Undefined index: phone_type in /home/ppfqae5402sm/public_html/clients/dev/b1/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 12
+[05-Dec-2018 12:08:18 UTC] PHP Notice:  Undefined index: phone_type in /home/ppfqae5402sm/public_html/clients/dev/b1/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 12
+[05-Dec-2018 12:21:19 UTC] PHP Notice:  Undefined index: phone_type in /home/ppfqae5402sm/public_html/clients/dev/b1/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 12
+[05-Dec-2018 18:23:52 UTC] PHP Notice:  Undefined index: phone_type in /home/ppfqae5402sm/public_html/clients/dev/b1/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 12
+[05-Dec-2018 18:39:25 UTC] PHP Notice:  Undefined index: phone_type in /home/ppfqae5402sm/public_html/clients/dev/b1/wp-content/plugins/cwd-form-to-3rd-party/ajax.php on line 12
